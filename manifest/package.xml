@@ -36,8 +36,10 @@
 		<name>Dashboard</name>
 	</types>
 	<types>
-		<members>*</members>
-		<name>FlexiPage</name>
+		<members>Event_Management_System_UtilityBar.flexipage-meta</members>
+		<members>Event_Management_System.flexipage-meta</members>
+    
+        <name>FlexiPage</name>
 	</types>
 	<types>
 		<members>Event_Status_Update_Completed</members>
