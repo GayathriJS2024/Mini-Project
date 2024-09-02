@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Attendee__c.Attendee_Compact_Layout</members>
+		<members>Event__c.Event_Compact_Layout</members>
+		<members>Registration__c.Registration_compact_Layout</members>
+		<name>CompactLayout</name>
+	</types>
+	<types>
+		<members>Attendee__c.Company__c</members>
+		<members>Attendee__c.Email__c</members>
+		<members>Attendee__c.Phone_Number__c</members>
+		<members>Event__c.Available_Seats__c</members>
+		<members>Event__c.Description__c</members>
+		<members>Event__c.Event_Date__c</members>
+		<members>Event__c.Event_Status__c</members>
+		<members>Event__c.Location__c</members>
+		<members>Event__c.Maximum_Attendees__c</members>
+		<members>Event__c.Registered_Attendees__c</members>
+		<members>Registration__c.Attendee__c</members>
+		<members>Registration__c.Event__c</members>
+		<members>Registration__c.Registration_Date__c</members>
+		<members>Registration__c.Registration_ID__c</members>
+		<members>Registration__c.Status__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Attendee__c</members>
+		<members>Event__c</members>
+		<members>Registration__c</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>EventDashboard/PgbOpqAcugSOhRCYfjSlBJWjHkTgMg</members>
+		<members>EventDashboard/iYZkkIwYzQWxgLQPOvrlyfcBqCKQpe</members>
+		<name>Dashboard</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>Event_Status_Update_Completed</members>
+		<members>Registration_Confirmation_Email_Flow</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>Attendee__c-Attendee Layout</members>
+		<members>Event-Event Layout</members>
+		<members>Registration__c-Registration Layout</members>
+		<name>Layout</name>
+	</types>
+	<types>
+		<members>Registration_Manager_Permissions</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>Event Analyst</members>
+		<members>Event Coordinator</members>
+		<members>General User</members>
+		<members>Registration Manager</members>
+		<name>Profile</name>
+	</types>
+	<types>
+		<members>Event__c.In_Person_Event</members>
+		<members>Event__c.Virtual_Event</members>
+		<name>RecordType</name>
+	</types>
+	<types>
+		<members>EventFolder/Canceled_Registrations_Report_mgk</members>
+		<members>EventFolder/Number_of_Attendees_per_Event_2Fg</members>
+		<members>EventFolder/Upcoming_Events_Reports_u48</members>
+		<name>Report</name>
+	</types>
+	
+	<version>61.0</version>
+</Package>

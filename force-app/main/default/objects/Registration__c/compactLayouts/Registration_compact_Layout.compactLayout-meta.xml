@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Registration_compact_Layout</fullName>
+    <fields>Registration_ID__c</fields>
+    <fields>Name</fields>
+    <fields>Registration_Date__c</fields>
+    <fields>Attendee__c</fields>
+    <fields>Status__c</fields>
+    <fields>Event__c</fields>
+    <label>Registration compact Layout</label>
+</CompactLayout>
